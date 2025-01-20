@@ -1,0 +1,2 @@
+# Description
+Amazon, a leading e-commerce platform with over 310 million active users, generates vast data, including 6.2 million product reviews—around 1-2% of users contribute. These reviews are crucial for insights into customer satisfaction, product quality, and preferences. However, manually analyzing this data is labor-intensive and costly. By optimizing and automating review analysis, Amazon can quickly derive valuable insights, enhance customer satisfaction, and improve decision-making. 
